@@ -25,8 +25,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    # url: /files/CV-KhalidSaifullah.pdf
+    #url: /cv/
+    url: /files/CV-KhalidSaifullah.pdf
     
   # - title: "CV"
   #   url: /cv-json/
