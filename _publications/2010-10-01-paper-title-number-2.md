@@ -3,7 +3,7 @@ title: "Brain Morphometry Patterns in the Presence of Alzheimer’s and/or Limbi
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about to be submitted to Alzheimer\'s & Dementia.'
+excerpt: 'This paper is about to be submitted to Alzheimer's & Dementia.'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
