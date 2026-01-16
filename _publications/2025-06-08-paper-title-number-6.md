@@ -1,13 +1,14 @@
 ---
-title: "Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology"
+title: "Towards Classification of Neurofibrillary Tangles with MRI-Based Biomarker"
 collection: publications
 category: conferences
-permalink: /publication/2024-07-28-paper-title-number-4
+permalink: /publication/2022-11-27-paper-title-number-4
 excerpt: "Oral Presentation"
-date: 2024-07-28
-venue: "Alzheimer's Association International Conference (AAIC)"
-paperurl: https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
-citation: 'Saifullah, Khalid et al. “Investigating Spatial Characteristics of Brain Atrophy in Alzheimer''s and LATE neuropathology.” Alzheimer''s & Dementia 20(Suppl 9): e093770. 9 Jan 2025. doi:10.1002/alz.093770.'
+date: 2022-11-27
+venue: "Radiological Society of North America (RSNA)"
+paperurl: #https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
+citation: 'Saifullah, K., et al. Towards Classification of Neurofibrillary Tangles with MRI-Based Biomarker. Radiological Society of North America (RSNA), 108th Scientific Assembly and Annual Meeting, Oral Presentation, Nov 27 - Dec 1, 2022, Chicago, IL, USA.'
 ---
 
-•	Saifullah, K., et al. Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 28 - Aug 1, 2024, Philadelphia, PA, USA.
+•	Saifullah, K., et al. Towards Classification of Neurofibrillary Tangles with MRI-Based Biomarker. Radiological Society of North America (RSNA), 108th Scientific Assembly and Annual Meeting, Oral Presentation, Nov 27 - Dec 1, 2022, Chicago, IL, USA.
+
