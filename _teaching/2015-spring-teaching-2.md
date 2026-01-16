@@ -1,7 +1,7 @@
 ---
 title: "Lecturer"
 collection: teaching
-type: "University Faculty"
+type: "Faculty"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Eastern University, Department of Electrical and Electronic Engineering"
 date: 2018-09-01
