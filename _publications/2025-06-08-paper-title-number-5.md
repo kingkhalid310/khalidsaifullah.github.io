@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-07-28-paper-title-number-4
+excerpt: "Alzheimer’s Association International Conference (AAIC), 2024"
+date: 2024-07-28
+venue: 'Philadelphia, PA, USA'
+paperurl: # 'https://academicpages.github.io/files/paper3.pdf'
+citation: # "Saifullah, K., et al. Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 28 - Aug 1, 2024, Philadelphia, PA, USA."
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+•	Saifullah, K., et al. Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 28 - Aug 1, 2024, Philadelphia, PA, USA.
