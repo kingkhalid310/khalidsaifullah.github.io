@@ -1,13 +1,13 @@
 ---
-title: "Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology"
+title: "Older Age and Heart Disease are Associated with a Faster Increase in ARTS, an In-Vivo Marker of Cerebral Arteriolosclerosis"
 collection: publications
 category: conferences
-permalink: /publication/2024-07-28-paper-title-number-4
-excerpt: "Oral Presentation"
-date: 2024-07-28
-venue: "Alzheimer's Association International Conference (AAIC)"
-paperurl: https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
-citation: 'Saifullah, Khalid et al. “Investigating Spatial Characteristics of Brain Atrophy in Alzheimer''s and LATE neuropathology.” Alzheimer''s & Dementia 20(Suppl 9): e093770. 9 Jan 2025. doi:10.1002/alz.093770.'
+permalink: /publication/2026-05-09-paper-title-number-4
+excerpt: "Submitted / Under Review"
+date: 2026-05-09
+venue: "International Society for Magnetic Resonance in Medicine (ISMRM)"
+paperurl: #https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
+citation: #'Tomash, A., Saifullah, K., et al. Older Age and Heart Disease are Associated with a Faster Increase in ARTS, an In-Vivo Marker of Cerebral Arteriolosclerosis. ISMRM & ISMRT Annual Meeting & Exhibition, May 9-14, 2026, Cape Town, South Africa.'
 ---
 
-•	Saifullah, K., et al. Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 28 - Aug 1, 2024, Philadelphia, PA, USA.
+•	Tomash, A., Saifullah, K., et al. Older Age and Heart Disease are Associated with a Faster Increase in ARTS, an In-Vivo Marker of Cerebral Arteriolosclerosis. ISMRM & ISMRT Annual Meeting & Exhibition, May 9-14, 2026, Cape Town, South Africa.
