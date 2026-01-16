@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Dhaka, Bangladesh"
 ---
 
-Lecturer, Department of Electrical and Electronic Engineering — Eastern University, Bangladesh  
+Lecturer, Department of Electrical and Electronic Engineering — Eastern University, Dhaka, Bangladesh  
 **Sept 2018 – Aug 2020**
 
 Taught undergraduate courses in **Biomedical Signal Processing** and **Digital Image Processing**, and mentored student teams on course projects and capstone-style research/engineering work. Also served as an **Institutional Quality Assurance Cell (IQAC) Member**, contributing to quality-assurance trainings, curriculum development, and continuous-improvement initiatives.
