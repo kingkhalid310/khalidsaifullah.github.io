@@ -1,13 +1,13 @@
 ---
-title: "Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology"
+title: "Plasma Neurofilament Light is associated with less brain tissue, larger ventricles, and higher white matter hyperintensities volume"
 collection: publications
 category: conferences
-permalink: /publication/2024-07-28-paper-title-number-4
-excerpt: "Oral Presentation"
-date: 2024-07-28
-venue: "Alzheimer's Association International Conference (AAIC)"
-paperurl: https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
-citation: 'Saifullah, Khalid et al. “Investigating Spatial Characteristics of Brain Atrophy in Alzheimer''s and LATE neuropathology.” Alzheimer''s & Dementia 20(Suppl 9): e093770. 9 Jan 2025. doi:10.1002/alz.093770.'
+permalink: /publication/2025-05-10-paper-title-number-4
+excerpt: "Poster Presentation"
+date: 2025-05-10
+venue: "International Society for Magnetic Resonance in Medicine (ISMRM)"
+paperurl: #https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
+citation: 'Saifullah, K., et al. Plasma Neurofilament Light is associated with less brain tissue, larger ventricles, and higher white matter hyperintensities volume. Poster Presentation, ISMRM & ISMRT Annual Meeting & Exhibition, May 10-15, 2025, Honolulu, Hawaiʻi, USA.'
 ---
 
-•	Saifullah, K., et al. Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 28 - Aug 1, 2024, Philadelphia, PA, USA.
+•	Saifullah, K., et al. Plasma Neurofilament Light is associated with less brain tissue, larger ventricles, and higher white matter hyperintensities volume. Poster Presentation, ISMRM & ISMRT Annual Meeting & Exhibition, May 10-15, 2025, Honolulu, Hawaiʻi, USA.
