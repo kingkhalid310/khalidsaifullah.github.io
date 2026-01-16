@@ -2,7 +2,7 @@
 title: "Neuropathological Correlates of Volume and Shape of Deep Gray Matter Structures in Community-Based Older Adults"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-7-01-paper-title-number-1
 excerpt: 'Using ex-vivo MRI and autopsy data from 842 older adults (Rush Cohort), we mapped how common neuropathologies independently affect deep gray matter volume and shape.'
 date: 2025-07-01
 venue: 'Human Brain Mapping'
