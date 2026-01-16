@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Neurofibrillary Tangles Prediction Based on MRI<br />Alzheimer\u2019s Association International Conference (AAIC) 2022; San Diego, CA, USA",
+    32.7174202,
+    -117.162772
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
