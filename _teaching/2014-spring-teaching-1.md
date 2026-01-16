@@ -25,6 +25,3 @@ Supported graduate students in **BME 553: Neuroimaging** through office hours, p
 - Tractography and white-matter pathway interpretation
 - fMRI preprocessing and first-level GLM concepts (SPM, where applicable)
 
-
-Heading 3
-======
