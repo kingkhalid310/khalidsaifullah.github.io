@@ -3,7 +3,7 @@ title: "Plasma Neurofilament Light Links to Brain Tissue Loss, Ventricular Enlar
 collection: publications
 category: conferences
 permalink: /publication/2025-07-27-paper-title-number-4
-excerpt: "Oral Presentation"
+excerpt: "Poster Presentation"
 date: 2025-07-27
 venue: "Alzheimer's Association International Conference (AAIC)"
 paperurl: #https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
