@@ -26,7 +26,7 @@ This includes work on:
 
 ---
 
-## I’m excited about environments where these tools can be used to
+## I’m excited about places where these tools can be used to
 
 - Clean up heterogeneity in **Alzheimer’s and mixed-pathology trials**
 - Design efficient **MRI- and blood-based screening and staging** strategies
