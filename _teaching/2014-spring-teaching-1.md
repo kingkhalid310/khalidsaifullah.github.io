@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Chicago, USA"
 ---
 
-Graduate Teaching Assistant, Department of Biomedical Engineering — Illinois Institute of Technology  
+Graduate Teaching Assistant, Department of Biomedical Engineering — Illinois Institute of Technology, Chicago, IL, USA
 **Jan 2022 – May 2022**
 
 Supported graduate students in **BME 553: Neuroimaging** through office hours, project guidance, and exam evaluation. Helped students troubleshoot and understand **MRI pulse sequences/protocols**, **fMRI**, **diffusion tensor imaging (DTI)**, and **white-matter tractography**, with an emphasis on translating imaging physics into practical analysis workflows.
