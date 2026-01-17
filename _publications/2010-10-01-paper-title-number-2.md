@@ -1,7 +1,7 @@
 ---
 title: "Brain Morphometry Patterns in the Presence of Alzheimer’s and/or Limbic-Predominant Age-Related TDP-43 Encephalopathy (LATE) Neuropathology"
 collection: publications
-category: inreview
+category: manuscripts
 permalink: /publication/2026-2-01-paper-title-number-2
 excerpt: "This paper is about to be submitted to Alzheimer's & Dementia."
 date: #2026-2-01
