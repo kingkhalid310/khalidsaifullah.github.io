@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Gallery"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Lab Life & Culture
+
 
 <div align="center">
 
