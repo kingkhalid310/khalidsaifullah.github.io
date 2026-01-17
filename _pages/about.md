@@ -13,7 +13,7 @@ I am a PhD candidate in **Biomedical Engineering (concentration in Medical Imagi
 My research focuses on **autopsy-validated MRI, PET, and blood-based biomarkers** to characterize:
 - Alzheimer’s disease neuropathologic change (**ADNC**)
 - Limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (**LATE-NC**)
-- **Cerebral small vessel diseases** like Arteriolosclerosis, Atherosclerosis and Cerebral Amyloid Angiopathy (CAA)
+- **Cerebrovascular diseases** like Arteriolosclerosis, Atherosclerosis and Cerebral Amyloid Angiopathy (CAA)
 
 ## What I do
 
