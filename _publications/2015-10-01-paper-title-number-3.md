@@ -1,5 +1,5 @@
 ---
-title: "An MRI-based in-vivo marker of neurofibrillary tangles"
+title: "An MRI-Based In-Vivo Marker of Neurofibrillary Tangles"
 collection: publications
 category: inreview
 permalink: /publication/2026-4-01-paper-title-number-2
