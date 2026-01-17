@@ -91,7 +91,7 @@ publication_category:
   inreview:
     title: 'Journal Articles In Preparation / Submitted / Under Review'
   conferences:
-    title: 'Conference Abstracts'
+    title: 'Conference Abstracts (Oral / Poster Presentations)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
