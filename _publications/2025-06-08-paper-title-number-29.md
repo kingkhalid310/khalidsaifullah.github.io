@@ -1,12 +1,12 @@
 ---
-title: "Plasma Neurofilament Light is associated with less brain tissue, larger ventricles, and higher white matter hyperintensities volume"
+title: "ARTS is associated with NfL but not with p-Tau217"
 collection: publications
 category: conferences
-permalink: /publication/2025-05-10-paper-title-number-4
+permalink: /publication/2025-07-27-paper-title-number-4
 excerpt: "Poster Presentation"
-date: 2025-05-10
-venue: "International Society for Magnetic Resonance in Medicine (ISMRM)"
-paperurl: https://archive.ismrm.org/2025/4856_FC6xjsSGb.html
-citation: "Saifullah, K., et al. Plasma Neurofilament Light is associated with less brain tissue, larger ventricles, and higher white matter hyperintensities volume. Poster Presentation, ISMRM & ISMRT Annual Meeting & Exhibition, May 10-15, 2025, Honolulu, Hawaiʻi, USA."
+date: 2025-07-27
+venue: "Alzheimer’s Association International Conference (AAIC)"
+paperurl: https://pmc.ncbi.nlm.nih.gov/articles/PMC12734643/
+citation: "Chowdhury, G. M., Saifullah, K., et al. ARTS is associated with NfL but not with p-Tau217. Poster Presentation, Alzheimer’s Association International Conference (AAIC) Annual Meeting, July 27-31, 2025, Toronto, Canada."
 ---
 
