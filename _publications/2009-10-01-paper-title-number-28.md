@@ -1,9 +1,9 @@
 ---
 title: "Associations of Lobar, Periventricular and Deep White Matter Hyperintensities with age-related neuropathologies"
 collection: publications
-category: manuscripts
-permalink: /publication/2026-4-01-paper-title-number-1
-excerpt: 'Manuscript in Preparation.'
+category: inreview
+permalink: /publication/2026-4-01-paper-title-number-3
+excerpt: 'Manuscript In Preparation.'
 date: 2026-04-01
 venue: #'Human Brain Mapping'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
