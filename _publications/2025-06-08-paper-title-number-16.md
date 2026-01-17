@@ -7,7 +7,7 @@ excerpt: "Poster Presentation"
 date: 2024-06-23
 venue: "Organization for Human Brain Mapping (OHBM)"
 paperurl: #https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
-citation: 'Saifullah, K., et al. Spatial pattern of brain atrophy in Alzheimer’s and LATE neuropathology. Poster Presentation, OHBM Annual Meeting, June 23-27, 2024, Seoul, Korea.'
+citation: 'Saifullah, K., et al. Spatial pattern of brain atrophy in Alzheimer’s and LATE neuropathology. Poster Presentation, Organization for Human Brain Mapping (OHBM) Annual Meeting, June 23-27, 2024, Seoul, Korea.'
 ---
 
-•	Saifullah, K., et al. Spatial pattern of brain atrophy in Alzheimer’s and LATE neuropathology. Poster Presentation, OHBM Annual Meeting, June 23-27, 2024, Seoul, Korea.
+
