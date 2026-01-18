@@ -11,7 +11,11 @@ redirect_from:
 
 <div align="center">
 
-  <img src="/images/ISMRM_Singapore_2024.jpeg" width="500" />
+  <img src="/images/MarkVCID.jpeg" width="600" />
+  <p><em>MarkVCID 2025 Annual Conference Attendees (Apr. 28–29, 2025).</em></p>
+  <br>
+
+  <img src="/images/ISMRM_Singapore_2024.jpeg" width="600" />
   <p><em>The team at the ISMRM Singapore 2024 conference.</em></p>
   <br>
 
