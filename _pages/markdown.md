@@ -11,7 +11,7 @@ redirect_from:
 
 <div align="center">
 
-  <img src="/images/ISMRM_Singapore_2024.jpeg" width="600" />
+  <img src="/images/ISMRM_Singapore_2024.jpeg" width="300" />
   <p><em>The team at the ISMRM Singapore 2024 conference.</em></p>
   <br>
 
