@@ -17,7 +17,7 @@ My research focuses on **autopsy-validated MRI, PET, and blood-based biomarkers*
 
 ## What I do
 
-Broadly, I develop **machine learning models** and **method pipelines** that link **in-vivo and ex-vivo MRI** with **neuropathology** and **cognition**, with the goal of building deployable biomarkers that generalize across **scanners, sites, and cohorts**.
+Broadly, I develop **machine learning models** and **method pipelines** that link **in-vivo and ex-vivo MRI** with **neuropathology** and **cognition**, with the goal of building deployable biomarkers that generalize across **scanners, sites, and cohorts**. [**Check this out!**](https://kingkhalid310.github.io/portfolio/portfolio-1/)
 
 This includes work on:
 - MRI‑based markers of **neurofibrillary tangles**, translating autopsy‑grounded signatures into tools that can be used in living cohorts. 
