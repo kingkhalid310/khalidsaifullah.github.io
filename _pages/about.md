@@ -44,7 +44,7 @@ I’m a visual problem-solver — I think in sketches. Before I code, I draw the
 
 I believe in **[Slow Science](http://slow-science.org/)** - good questions take time to mature.
 
-Despite building automated machine-learning pipelines, I still trust a Matador pen and an A4 paper checklist more than any productivity app.
+I trust a Matador pen and an A4 paper checklist more than any productivity app.
 
 Currently, I’m re-reading Austin Kleon’s **[Show Your Work!](https://austinkleon.com/show-your-work/)** - a personal favorite.
 
