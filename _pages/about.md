@@ -54,5 +54,5 @@ I’m also constantly searching for the best chai or qahwa spots in the city; if
 
 ## Connect
 
-I am currently in the final stages of my PhD (expected defense: April 2026) and am actively seeking postdoctoral opportunities in multimodal neuroimaging and biomarkers.
+I am currently in the final stages of my PhD (**expected defense: April 2026**) and am actively seeking postdoctoral opportunities in multimodal neuroimaging and biomarkers.
 
