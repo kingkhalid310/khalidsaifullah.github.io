@@ -40,6 +40,18 @@ I’m a visual problem-solver — I think in sketches. Before I code, I draw the
 
 ---
 
+## Beyond the lab
+
+I believe in **[Slow Science](http://slow-science.org/)** - good questions take time to mature.
+
+Despite building automated machine-learning pipelines, I still trust a Matador pen and an A4 paper checklist more than any productivity app.
+
+Currently, I’m re-reading Austin Kleon’s **[Show Your Work!](https://austinkleon.com/show-your-work/)** - a personal favorite.
+
+I’m also constantly searching for the best chai or qahwa spots in the city; if you know a great Yemeni café, please send the recommendation my way.
+
+---
+
 ## Connect
 
 I am currently in the final stages of my PhD (expected defense: April 2026) and am actively seeking postdoctoral opportunities in multimodal neuroimaging and biomarkers.
