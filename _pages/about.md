@@ -36,7 +36,7 @@ This includes work on:
 
 ## How I work
 
-I’m a visual problem-solver—I think in sketches. Before I code, I draw the pipeline: figures, logic, and failure points. Clarity first. Keyboard second.
+I’m a visual problem-solver — I think in sketches. Before I code, I draw the pipeline: figures, logic, and failure points. Clarity first. Keyboard second.
 
 ---
 
