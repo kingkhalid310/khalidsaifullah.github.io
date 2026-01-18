@@ -36,5 +36,5 @@ This includes work on:
 
 ## Connect
 
-I’m now open to postdoc and research scientist roles in neuroimaging, biomarkers, and clinical ML. If you’re working on multimodal aging/AD cohorts, I’d love to connect.
+I am currently in the final stages of my PhD (expected defense: April 2026) and am actively seeking postdoctoral opportunities in multimodal neuroimaging and biomarkers.
 
