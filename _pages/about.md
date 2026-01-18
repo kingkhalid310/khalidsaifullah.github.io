@@ -38,3 +38,6 @@ This includes work on:
 
 I am currently in the final stages of my PhD (expected defense: April 2026) and am actively seeking postdoctoral opportunities in multimodal neuroimaging and biomarkers.
 
+---
+
+I’m a visual problem-solver—I think in sketches. Before I code, I draw the pipeline: figures, logic, and failure points. Clarity first. Keyboard second.
